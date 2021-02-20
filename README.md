@@ -1,5 +1,5 @@
 # LutzGo
-The Facts and Stats of Figure Skating through the eyes of Data Scientist
+*The Facts and Stats of Figure Skating*
 
 ### Short Spins (Short Analysis Reports)
 | Month        | Report           | Data Branch  |
