@@ -1,5 +1,5 @@
 # LutzGo
-*The Facts and Stats of Figure Skating*
+*The Quick Facts and Stats of Figure Skating*
 
 ### Short Program (Quick Analysis + Reports)
 | Month        | Report           | Data Branch  |
